@@ -6,6 +6,7 @@ app.use(cors());
 
 let products = [
     {
+        id: 1,
         name: 'IPhone11',
         brand: 'Apple',
         desc: 'This product is sold in Apple Stores!',
@@ -14,6 +15,7 @@ let products = [
         amount: 0
     },
     {
+        id: 2,
         name: 'IPhone9',
         brand: 'Apple',
         desc: 'This product is sold in Apple Stores!',
@@ -22,6 +24,7 @@ let products = [
         amount: 0
     },
     {
+        id: 3,
         name: 'IPhone12',
         brand: 'Apple',
         desc: 'This product is sold in Apple Stores!',
@@ -30,6 +33,7 @@ let products = [
         amount: 0
     },
     {
+        id: 4,
         name: 'IPhone8',
         brand: 'Apple',
         desc: 'This product is sold in Apple Stores!',
@@ -38,6 +42,7 @@ let products = [
         amount: 0
     },
     {
+        id: 5,
         name: 'IPhone7',
         brand: 'Apple',
         desc: 'This product is sold in Apple Stores!',
